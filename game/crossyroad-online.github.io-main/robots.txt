@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://crossyroad-online.github.io/sitemap.xml
